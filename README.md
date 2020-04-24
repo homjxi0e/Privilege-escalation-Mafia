@@ -1,6 +1,6 @@
 <table>
  <tr>
-  <td><a href="Samples/Privsecstuff/AboutPrivilegeescalation.md">About Privilege escalation (1 - By attack.mitre)</a></td>
+  <td><a href="Privsecstuff/AboutPrivilegeescalation.md">About Privilege escalation (1 - By attack.mitre)</a></td>
   <td><a href="Samples/ClientDeviceInformation">Client Device Information</a></td>
   <td><a href="Samples/CredentialPicker">Credential picker</a></td>
  </tr>
