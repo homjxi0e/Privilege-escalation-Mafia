@@ -1,6 +1,6 @@
 <table>
  <tr>
-  <td><a href="Samples/PasswordVault">Credential locker</a></td>
+  <td><a href="Samples/PasswordVault">About Privilege escalation (1)</a></td>
   <td><a href="Samples/ClientDeviceInformation">Client Device Information</a></td>
   <td><a href="Samples/CredentialPicker">Credential picker</a></td>
  </tr>
