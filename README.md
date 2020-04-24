@@ -1,7 +1,7 @@
 <table>
  <tr>
   <td><a href="Privsecstuff/AboutPrivilegeescalation.md">About Privilege escalation (1 - By attack.mitre)</a></td>
-  <td><a href="Samples/ClientDeviceInformation">Privilege escalation techniques</a></td>
+  <td><a href="Samples/ClientDeviceInformation">Privilege escalation techniques (2 - By attack.mitre)</a></td>
   <td><a href="Samples/CredentialPicker">Credential picker</a></td>
  </tr>
  <tr>
