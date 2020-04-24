@@ -4,6 +4,8 @@
   <td><a href="Classes/URLProtocol.md">URLProtocol/COMHijacking</a></td>
   <td><a href="Classes/Signature-Tools/Openwith.md">Openwith.exe/COMHijacking</a></td>
   <td><a href="Classes/rundll32.md">Rundll32/CLSID</a></td>
+  <td><a href="Classes/rundll32.md">Rundll32/CLSID</a></td>
+  <td><a href="Classes/rundll32.md">Rundll32/CLSID</a></td>
  </tr>
  <tr>
   <td><a href="Classes/xwizard.md">xwizard/CLSID</a></td>
