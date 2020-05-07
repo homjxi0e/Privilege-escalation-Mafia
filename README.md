@@ -2,7 +2,8 @@ Privilege escalation Mafia framework is based on combined efforts by some people
 
 
 
-![nn](https://user-images.githubusercontent.com/25440152/81302436-a82aab80-907a-11ea-8e73-8b6a275bfddc.png)
+![nn](https://user-images.githubusercontent.com/25440152/81302436-a82aab80-907a-11ea-8e73-8b6a275bfddc.png)  <img width="192" alt="1313" src="https://user-images.githubusercontent.com/25440152/81302921-4dde1a80-907b-11ea-9ec4-a099819d6449.PNG">
+
 
 
 <table>
