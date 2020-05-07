@@ -1,3 +1,5 @@
+Privilege escalation Mafia framework is based on combined efforts by some people and organizations around the world. The framework covers all your needs to help you develop your information about privilege escalation. 
+
 <table>
  <tr>
   <td><a href="Privsecstuff/AboutPrivilegeescalation.md">About Privilege escalation (1 - By attack.mitre)</a></td>
