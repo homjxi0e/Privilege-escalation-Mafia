@@ -64,5 +64,5 @@ is based on combined efforts by some people and organizations around the world. 
 </table>
 
 
-#### Privilege escalation newst information 
+#### Useful resources to gain high experience in malware analysis path
 
