@@ -66,7 +66,6 @@ is based on combined efforts by some people and organizations around the world. 
 
 #### Useful resources to gain high experience in malware analysis path
 
-* [Ropnop - Using credentials to own Windows boxes](https://blog.ropnop.com/using-credentials-to-own-windows-boxes/)
-- [Ropnop - Using credentials to own Windows boxes Part 2](https://blog.ropnop.com/using-credentials-to-own-windows-boxes-part-2-psexec-and-services/)
-- [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html)
-
+* [ssssssss](www)
+- [ssssssss](www)
+- [ssssssss](www)
