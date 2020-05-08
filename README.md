@@ -66,3 +66,10 @@ is based on combined efforts by some people and organizations around the world. 
 
 #### Useful resources to gain high experience in malware analysis path
 
+ * [sss](www.google.com)
+* [Windows Version and Configuration](#windows-version-and-configuration)
+* [User Enumeration](#user-enumeration)
+* [Network Enumeration](#network-enumeration)
+* [AppLocker Enumeration](#applocker-enumeration)
+* [EoP - Looting for passwords](#eop---looting-for-passwords)
+    * [SAM and SYSTEM files](#sam-and-system-files)
