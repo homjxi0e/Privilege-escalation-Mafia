@@ -66,10 +66,7 @@ is based on combined efforts by some people and organizations around the world. 
 
 #### Useful resources to gain high experience in malware analysis path
 
- * [sss](www.google.com)
-* [Windows Version and Configuration](#windows-version-and-configuration)
-* [User Enumeration](#user-enumeration)
-* [Network Enumeration](#network-enumeration)
-* [AppLocker Enumeration](#applocker-enumeration)
-* [EoP - Looting for passwords](#eop---looting-for-passwords)
-    * [SAM and SYSTEM files](#sam-and-system-files)
+* [Ropnop - Using credentials to own Windows boxes](https://blog.ropnop.com/using-credentials-to-own-windows-boxes/)
+- [Ropnop - Using credentials to own Windows boxes Part 2](https://blog.ropnop.com/using-credentials-to-own-windows-boxes-part-2-psexec-and-services/)
+- [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html)
+
