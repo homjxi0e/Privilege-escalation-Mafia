@@ -69,6 +69,6 @@ is based on combined efforts by some people and organizations around the world. 
 Malware analysis resources 
 
 
-* [Practical malware analysis book (Michael Sikorski and Andrew Honig)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiCsqyClaXpAhUKyaQKHWWgAuUQFjAAegQIARAB&url=https%3A%2F%2Flira.epac.to%2FDOCS-TECH%2FHacking%2FPractical%2520Malware%2520Analysis.pdf&usg=AOvVaw2XbMO1EQqeoCNxUPefPcHS)
+- [Practical malware analysis book (By Michael Sikorski and Andrew Honig)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiCsqyClaXpAhUKyaQKHWWgAuUQFjAAegQIARAB&url=https%3A%2F%2Flira.epac.to%2FDOCS-TECH%2FHacking%2FPractical%2520Malware%2520Analysis.pdf&usg=AOvVaw2XbMO1EQqeoCNxUPefPcHS)
 - [ssssssss](www)
 - [ssssssss](www)
