@@ -24,8 +24,7 @@ Is a lare base of advanced techniques and exploitations. So far, MITRE ATT&CK is
 ![nn](https://user-images.githubusercontent.com/25440152/81302436-a82aab80-907a-11ea-8e73-8b6a275bfddc.png)  <img width="192" alt="1313" src="https://user-images.githubusercontent.com/25440152/81302921-4dde1a80-907b-11ea-9ec4-a099819d6449.PNG">
 
 
-+ + + +  + + + + + + + + + +
-
+ 
 <table>
  <tr>
   <td><a href="Privsecstuff/AboutPrivilegeescalation.md">About Privilege escalation (1 - By attack.mitre)</a></td>
@@ -83,6 +82,7 @@ Is a lare base of advanced techniques and exploitations. So far, MITRE ATT&CK is
 #### Useful resources to improve the skills of finding privilege escalation bugs:
 Malware analysis resources 
 
++ + + +  + + + + + + + + + + + +
 
 - [Practical malware analysis book (By Michael Sikorski and Andrew Honig)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiCsqyClaXpAhUKyaQKHWWgAuUQFjAAegQIARAB&url=https%3A%2F%2Flira.epac.to%2FDOCS-TECH%2FHacking%2FPractical%2520Malware%2520Analysis.pdf&usg=AOvVaw2XbMO1EQqeoCNxUPefPcHS)
 - [ssssssss](www)
