@@ -20,5 +20,5 @@ This page shows you blog posts related to privilege escalation, otherwise, all o
 * [Windows Privilege Escalation Fundamentals (by Fuzzysecurity.com)](https://www.fuzzysecurity.com/tutorials/16.html)
 
 + + + +
-* [Windows Privilege Escalation Scripts & Techniques
+** [Windows Privilege Escalation Scripts & Techniques
   (By Rahmat Nurfauzi)](https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194)
