@@ -13,7 +13,7 @@ is based on combined efforts by some people and organizations around the world. 
 <table>
  <tr>
   <td><a href="Privsecstuff/AboutPrivilegeescalation.md">About Privilege escalation (1 - By attack.mitre)</a></td>
-  <td><a href="Samples/ClientDeviceInformation">Privilege escalation techniques (2 - By attack.mitre)</a></td>
+  <td><a href="Samples/Privilege%20escalation%20techniques">Privilege escalation techniques (2 - By attack.mitre)</a></td>
   <td><a href="Samples/CredentialPicker">Credential picker</a></td>
  </tr>
  <tr>
