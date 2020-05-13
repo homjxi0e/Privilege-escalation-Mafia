@@ -1,5 +1,5 @@
 ### Privilege escalation Mafia framework 
-is based on combined efforts by some people and organizations around the world. The framework covers all your needs to help you develop your information about privilege escalation. Learn the most modern techniques and exploiations for privilege escalation with this framework. Here You're going to gain a lot of useful info. This framework shows real-time privilege escalation bugs and teach you a lot of basisc of the privilege escalation.
+* is based on combined efforts by some people and organizations around the world. The framework covers all your needs, helps you to develop your information about privilege escalation, teaches you the most modern exploitations of privilege escalation. Here You're going to gain a lot of useful info. This framework shows real-time privilege escalation bugs and teach you a lot of basisc of the privilege escalation.
 
 
 
