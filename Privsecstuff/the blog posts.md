@@ -11,7 +11,7 @@ This page shows you blog posts related to privilege escalation, otherwise, all o
 
 
 
-+ + 
++ 
 
 * [Windows 7 privilege escalation using UAC bypass (by Kapil Verma)](https://medium.com/@kapilvermarbl/windows-7-privilege-escalation-using-uac-bypass-b08f5523b7de)
 + + + +
