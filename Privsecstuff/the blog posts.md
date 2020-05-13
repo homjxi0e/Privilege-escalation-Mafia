@@ -9,6 +9,6 @@ This page shows you blog posts related to privilege escalation, otherwise, all o
 
 ### Privilege escalation through Token Manipulation
 
-* [Privilege escalation through Token Manipulation (hacknpentest)]([Privilege escalation through Token Manipulation (hacknpentest) https://hacknpentest.com/privilege-escalation-through-token-manipulation/)
+* [Privilege escalation through Token Manipulation (hacknpentest)](https://hacknpentest.com/privilege-escalation-through-token-manipulation/)
 
 
