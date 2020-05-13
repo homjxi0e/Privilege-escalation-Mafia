@@ -64,8 +64,7 @@ is based on combined efforts by some people and organizations around the world. 
 </table>
 
 
-#### Useful resources to improve the skills:
-
+#### Useful resources to improve the skills of finding privilege escalation bugs:
 Malware analysis resources 
 
 
