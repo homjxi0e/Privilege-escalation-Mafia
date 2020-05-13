@@ -3,8 +3,7 @@ is based on combined efforts by some people and organizations around the world. 
 
 
 -----------------------------------------------------------------------------------------------
-
-                              -----
+----------------------------------------------------------------------------
 
 * The framework covers all your needs, helps you to develop your information about privilege escalation, and teaches you the most modern exploitations of privilege escalation. 
 
