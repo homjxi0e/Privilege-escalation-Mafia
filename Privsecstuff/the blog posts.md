@@ -5,7 +5,7 @@ This page shows you blog posts related to privilege escalation, otherwise, all o
 
 
 
-# Privilege escalation through Token Manipulation (by hacknpentest.com)
+### Privilege escalation through Token Manipulation (by hacknpentest.com)
 
 * [Privilege escalation through Token Manipulation](https://hacknpentest.com/privilege-escalation-through-token-manipulation/)
 ### Windows 7 privilege escalation using UAC bypass (by Kapil Verma)
