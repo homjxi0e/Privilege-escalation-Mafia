@@ -4,6 +4,12 @@ is based on combined efforts by some people and organizations around the world. 
 -----------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 
+### Who is this framework for?
+
+Actally, I've made this framework for beginners, for instance, Let's say, you've got a little bit about privilege escalation but you need more resources, and blog posts, then, here is where you should start from!
+
+-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
 
 * The framework covers all your needs, helps you to develop your information about privilege escalation, and teaches you the most modern exploitations of privilege escalation. 
 
