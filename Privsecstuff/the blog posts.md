@@ -3,8 +3,6 @@ This page shows you blog posts related to privilege escalation, otherwise, all o
 ------------------------------------------------------------------------------
 
 
-
-
 Privilege escalation through Token Manipulation (by hacknpentest.com)
 * [Privilege escalation through Token Manipulation](https://hacknpentest.com/privilege-escalation-through-token-manipulation/)
 + +
@@ -27,6 +25,6 @@ Windows Privilege Escalation – an approach for penetration testers (By sec-con
 
 
 Windows Local Privilege Escalation (by hacktricks.xyz)
-   * [hacktricks.xyz](https://book.hacktricks.xyz/windows/windows-local-privilege-escalation
+   * [Windows Local Privilege Escalation](https://book.hacktricks.xyz/windows/windows-local-privilege-escalation
 )
 
