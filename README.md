@@ -96,4 +96,11 @@ Malware analysis resources
 
 Scripts & tools to find privilege escalation bugs:
 
-  - [ssssssss](www)
+
+  - [Process Explorer v16.32 (By Microsoft)](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+  
+  - [Process Explorer v16.32 (By Process Monitor v3.53)](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+  
+  - [Process Explorer v16.32 (By )](www)
+  
+  - [Process Explorer v16.32 (By )](www)
