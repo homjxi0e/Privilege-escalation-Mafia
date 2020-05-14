@@ -1,6 +1,6 @@
 
 
-| 222 | 222 |
+| The names of user's rights |
 | - | - |
 | SeTrustedCredManAccessPrivilege |  |
 | SeNetworkLogonRight |  |
