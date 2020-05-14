@@ -80,8 +80,8 @@ Malware analysis resources
 
 + + + +  + + + + + + + + + + + +
 
-- [Practical malware analysis book (By Michael Sikorski and Andrew Honig)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiCsqyClaXpAhUKyaQKHWWgAuUQFjAAegQIARAB&url=https%3A%2F%2Flira.epac.to%2FDOCS-TECH%2FHacking%2FPractical%2520Malware%2520Analysis.pdf&usg=AOvVaw2XbMO1EQqeoCNxUPefPcHS)
-- [Malware Analysis Basics (By www.porcupine.org)](http://www.porcupine.org/forensics/chapter6.html)
+  - [Practical malware analysis book (By Michael Sikorski and Andrew Honig)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiCsqyClaXpAhUKyaQKHWWgAuUQFjAAegQIARAB&url=https%3A%2F%2Flira.epac.to%2FDOCS-TECH%2FHacking%2FPractical%2520Malware%2520Analysis.pdf&usg=AOvVaw2XbMO1EQqeoCNxUPefPcHS)
+  - [Malware Analysis Basics (By www.porcupine.org)](http://www.porcupine.org/forensics/chapter6.html)
 
 +  + + + + + + + + + + + +
-- [ssssssss](www)
+  - [ssssssss](www)
