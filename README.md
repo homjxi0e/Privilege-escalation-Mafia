@@ -7,11 +7,11 @@ is based on combined efforts by some people and organizations around the world. 
 
 * The framework covers all your needs, helps you to develop your information about privilege escalation, and teaches you the most modern exploitations of privilege escalation. 
 
-* Here You're going to gain a lot of useful info. This framework shows real-time privilege escalation bugs and teach you a lot of basisc of the privilege escalation.
+   * Here You're going to gain a lot of useful info. This framework shows real-time privilege escalation bugs and teach you a lot of basisc of the privilege escalation.
 
-* The framework also provides the tools and the requirements needed to make it easy for you to understand.
+   * The framework also provides the tools and the requirements needed to make it easy for you to understand.
 
-* Find the useful information for privilege escalation by (just) browsing the framework pages.
+   * Find the useful information for privilege escalation by (just) browsing the framework pages.
 
 
 
