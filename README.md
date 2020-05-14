@@ -34,7 +34,7 @@ Actally, I've made this framework for beginners, for instance, Let's say, you've
  <tr>
   <td><a href="Privsecstuff/AboutPrivilegeescalation.md">About Privilege escalation (1 - By attack.mitre)</a></td>
   <td><a href="Privsecstuff/Privilege%20escalation%20techniques.md">Privilege escalation techniques (2 - By attack.mitre)</a></td>
-  <td><a href="Samples/CredentialPicker">Credential picker</a></td>
+  <td><a href="Samples/CredentialPicker">User Rights Assignment</a></td>
  </tr>
  <tr>
   <td><a href="Samples/DisablingScreenCapture">Disabling screen capture</a></td>
