@@ -20,6 +20,9 @@ Actally, I've made this framework for beginners, for instance, Let's say, you've
    * Find the useful information for privilege escalation by (just) browsing the framework pages.
 
 
+-----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------
+
 
 
 
