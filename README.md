@@ -93,4 +93,7 @@ Malware analysis resources
   - [Malware Analysis Basics (By www.porcupine.org)](http://www.porcupine.org/forensics/chapter6.html)
 
 +  + + + + + + + + + + + +
+
+Scripts & tools to find privilege escalation bugs:
+
   - [ssssssss](www)
