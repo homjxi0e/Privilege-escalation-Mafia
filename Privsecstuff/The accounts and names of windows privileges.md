@@ -1,6 +1,6 @@
 
 
-| The names of user's rights |
+| The names of user's rights |  |
 | - | - |
 | SeTrustedCredManAccessPrivilege |  |
 | SeNetworkLogonRight |  |
