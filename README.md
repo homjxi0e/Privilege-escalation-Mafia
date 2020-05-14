@@ -1,13 +1,9 @@
 ### Privilege escalation Mafia framework 
 is based on combined efforts by some people and organizations around the world. Try to browse the mafia framework pages, and you won't feel grateful at all. 
 
-The information in this framework is based on the following website:
-
-### (MITRE ATT&CK)
-Is a lare base of advanced techniques and exploitations. So far, MITRE ATT&CK is the most framework that provides an easy and undrstandable large base of different types of Mac/Windows/linux/etc. techniques
-
 -----------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------
+
 
 * The framework covers all your needs, helps you to develop your information about privilege escalation, and teaches you the most modern exploitations of privilege escalation. 
 
@@ -15,7 +11,7 @@ Is a lare base of advanced techniques and exploitations. So far, MITRE ATT&CK is
 
 * The framework also provides the tools and the requirements needed to make it easy for you to understand.
 
-* Find the useful resources for privilege escalation by (just) browsing the framework page.
+* Find the useful information for privilege escalation by (just) browsing the framework pages.
 
 
 
