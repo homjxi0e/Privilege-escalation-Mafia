@@ -22,3 +22,7 @@ Privilege escalation through Token Manipulation (by hacknpentest.com)
    Windows Privilege Escalation – an approach for penetration testers (By sec-consult.com)
    * [Windows Privilege Escalation – an approach for penetration testers](https://sec-consult.com/en/blog/2019/04/windows-privilege-escalation-an-approach-for-penetration-testers/)
 + +
+   Windows Local Privilege Escalation (by hacktricks.xyz)
+   * [hacktricks.xyz](https://book.hacktricks.xyz/windows/windows-local-privilege-escalation
+)
+
