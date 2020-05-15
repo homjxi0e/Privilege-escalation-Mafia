@@ -15,7 +15,7 @@ Actally, I've made this framework for beginners, for instance, Let's say, you've
 
    * Here You're going to gain a lot of useful info. This framework shows real-time privilege escalation bugs and teach you a lot of basisc of the privilege escalation.
 
-   * The framework also provides the tools and the requirements needed to make it easy for you to understand.
+   * The framework also provides the tools and the requirements needed to make it easy for you to learn.
 
    * Find the useful information for privilege escalation by (just) browsing the framework pages.
 
