@@ -37,49 +37,49 @@ Actally, I've made this framework for beginners, for instance, Let's say, you've
   <td><a href="Samples/CredentialPicker">User Rights Assignment</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/DisablingScreenCapture">Disabling screen capture</a></td>
-  <td><a href="Samples/EnterpriseDataProtection">Enterprise data protection</a></td>
-  <td><a href="Samples/KeyCredentialManager">KeyCredentialManager</a></td>
+  <td><a href="Samples/DisablingScreenCapture">Coming soon</a></td>
+  <td><a href="Samples/EnterpriseDataProtection">Coming soon</a></td>
+  <td><a href="Samples/KeyCredentialManager">Coming soon</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/Personalization">Lock screen personalization</a></td>
-  <td><a href="Samples/MicrosoftPassport">Microsoft Passport and Windows Hello</a></td>
-  <td><a href="Samples/SmartCard">Smart cards</a></td>
+  <td><a href="Samples/Personalization">Coming soon</a></td>
+  <td><a href="Samples/MicrosoftPassport">Coming soon</a></td>
+  <td><a href="Samples/SmartCard">Coming soon</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/UserInfo">User information</a></td>
-  <td><a href="Samples/UserCertificateStore">UserCertificateStore</a></td>
-  <td><a href="Samples/UserConsentVerifier">UserConsentVerifier</a></td>
+  <td><a href="Samples/UserInfo">Coming soon</a></td>
+  <td><a href="Samples/UserCertificateStore">Coming soon</a></td>
+  <td><a href="Samples/UserConsentVerifier">Coming soon</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/WebAccountManagement">Web account management</a></td>
-  <td><a href="Samples/WebAuthenticationBroker">WebAuthenticationBroker</a></td>
+  <td><a href="Samples/WebAccountManagement">Coming soon</a></td>
+  <td><a href="Samples/WebAuthenticationBroker">Coming soon</a></td>
  </tr>
 </table>
 <table>
  <tr>
-  <td><a href="Samples/PasswordVault">Credential locker</a></td>
-  <td><a href="Samples/ClientDeviceInformation">Client Device Information</a></td>
-  <td><a href="Samples/CredentialPicker">Credential picker</a></td>
+  <td><a href="Samples/PasswordVault">Coming soon</a></td>
+  <td><a href="Samples/ClientDeviceInformation">Coming soon</a></td>
+  <td><a href="Samples/CredentialPicker">Coming soon</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/DisablingScreenCapture">Disabling screen capture</a></td>
-  <td><a href="Samples/EnterpriseDataProtection">Enterprise data protection</a></td>
-  <td><a href="Samples/KeyCredentialManager">KeyCredentialManager</a></td>
+  <td><a href="Samples/DisablingScreenCapture">Coming soon</a></td>
+  <td><a href="Samples/EnterpriseDataProtection">Coming soon</a></td>
+  <td><a href="Samples/KeyCredentialManager">Coming soonr</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/Personalization">Lock screen personalization</a></td>
-  <td><a href="Samples/MicrosoftPassport">Microsoft Passport and Windows Hello</a></td>
-  <td><a href="Samples/SmartCard">Smart cards</a></td>
+  <td><a href="Samples/Personalization">Coming soon</a></td>
+  <td><a href="Samples/MicrosoftPassport">Coming soon</a></td>
+  <td><a href="Samples/SmartCard">Coming soon</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/UserInfo">User information</a></td>
-  <td><a href="Samples/UserCertificateStore">UserCertificateStore</a></td>
-  <td><a href="Samples/UserConsentVerifier">UserConsentVerifier</a></td>
+  <td><a href="Samples/UserInfo">Coming soon</a></td>
+  <td><a href="Samples/UserCertificateStore">Coming soon</a></td>
+  <td><a href="Samples/UserConsentVerifier">Coming soon</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/WebAccountManagement">Web account management</a></td>
-  <td><a href="Samples/WebAuthenticationBroker">WebAuthenticationBroker</a></td>
+  <td><a href="Samples/WebAccountManagement">Coming soon</a></td>
+  <td><a href="Samples/WebAuthenticationBroker">Coming soon</a></td>
  </tr>
 </table>
 
